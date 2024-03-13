@@ -5,7 +5,7 @@ I'm a passionate individual with a keen interest in cybersecurity. My journey in
 
 🔐 Mission: My mission is to contribute to a safer online environment by staying up-to-date with the latest cybersecurity trends and employing best practices in the field.
 
-🛠️ Skills: I specialize in [mention a few key skills, e.g., ethical hacking, network security, etc.], leveraging technology to identify and address potential vulnerabilities.
+🛠️ Skills: I specialize in  ethical hacking, network security, programming, leveraging technology to identify and address potential vulnerabilities.
 
 🚀 Learning: In this ever-evolving field, I am committed to continuous learning. Exploring new challenges and keeping pace with emerging threats is what keeps me motivated.
 
