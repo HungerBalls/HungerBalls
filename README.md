@@ -1,4 +1,4 @@
-### Hi there 👋, Hello there! 👋 I'm Diogo
+###  Hello there! 👋 I'm Diogo
 ![](https://www.shutterstock.com/pt/image-vector/cyber-security-data-protection-cyberattacks-concept-1918033985)
 
 I'm a passionate individual with a keen interest in cybersecurity. My journey into the world of digital defense began with a fascination for protecting online spaces and ensuring the safety of digital information.
