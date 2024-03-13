@@ -1,5 +1,5 @@
 ###  Hello there! 👋 I'm Diogo
-![](https://www.shutterstock.com/pt/image-vector/cyber-security-data-protection-cyberattacks-concept-1918033985)
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frockyknolltech.com%2Fwp-content%2Fuploads%2Fsites%2F725%2F2021%2F03%2Fbigstock-Cyber-Security-Data-Protection-398556191-2048x974.jpg&f=1&nofb=1&ipt=43ef83cc2b7d8d788fc7372289d145b14e4a903c2c332ab9a5b93778cd48412e&ipo=images)
 
 I'm a passionate individual with a keen interest in cybersecurity. My journey into the world of digital defense began with a fascination for protecting online spaces and ensuring the safety of digital information.
 
@@ -13,7 +13,6 @@ I'm a passionate individual with a keen interest in cybersecurity. My journey in
 
 Skills: PHP / PYTHON / JAVA / HTML / CSS / C++
 
-- 🔭 I’m currently working on this page. 
 
 
 
